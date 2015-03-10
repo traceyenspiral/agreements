@@ -1,8 +1,8 @@
 # Enspiral Services People Agreement
 
-This document outlines the relationships individuals have with Enspiral Services.
+This document outlines the relationship individuals have with Enspiral Services.
 
-There are three categories: Members, Contributors and External Contractor
+There are three categories: Members, Contributors and External Contractors
 
 ## Members
 
@@ -16,15 +16,15 @@ Enspiral Services Members are distinct from Enspiral Foundation Members and mana
 ### Becoming a Member
 Any existing Member can nominate a Contributor for Membership which is approved by a consensus decision of the existing Members.
 
-There is no formal Criteria for someone to become a Member. It really just comes down to the judgement of the other Membes. Some of the questions people consider are: 
+There is no formal Criteria for someone to become a Member. It really just comes down to the judgement of the other Members. Some of the questions people consider are: 
 
 * Have we worked with them long enough to really know them?
-* Are the committed to Enspiral Services?
+* Are they committed to Enspiral Services?
 * Do they reliably produce good quality work?
 * Are they aligned with the [Enspiral Values](https://github.com/enspiral/agreements/blob/services-ownership/agreements/vision.md#where-we-are-starting-from---our-core-values)?
 
 ### Responsibilities
-Members' primary responsibilities are to 
+Members' primary responsibilities are to: 
 
 * nurture and protect the culture, values and mission of the company.
 * actively work to grow and/or improve Enspiral Services.
@@ -32,7 +32,7 @@ Members' primary responsibilities are to
 * use Enspiral Services as their primary vehicle for contract work.
 
 ### Benefits of Membership
-There are no distinct benefits to membership and it is primary a role of service and stewardship.
+There are no distinct benefits to membership and it is primarily a role of service and stewardship.
 
 ### Liability of Members
 As Shareholders members have no more or less liability than Contributors. 
@@ -44,8 +44,8 @@ Similar to the Enspiral Foundation every six months we ask Members if they want 
 * **abstain**: take a 6 month sabbatical and keep their governance share but opt out of the members loomio group.
 * **disagree**: dissolve their governance share and step back to Contributor.
 
-### Ceasing to be  Member
-As well as voluntarily stepping back a 75% vote of existing Members can forcibly dissolve somebody's governance share. This has never happened and is a safety net to resolve unreconcilable conflict amongst Members.
+### Ceasing to be a Member
+As well as voluntarily stepping back, a 75% vote of existing Members can forcibly dissolve somebody's governance share. This has never happened and is a safety net to resolve unreconcilable conflict amongst Members.
 
 ## Contributors
 
@@ -81,7 +81,7 @@ If a Contributor hasn't had any activity on their Enspiral Account for 6 months 
 Our employee contracts and contractor agreements also have standard termination clauses which can be exercised in various circumstances.
 
 ##External Contractor
-An External Contractor is someone who does work for Enspiral Services on an ad hoc basis at the direction of a Contributor. 
+An External Contractor is someone who does work for Enspiral Services on an ad-hoc basis at the direction of a Contributor. 
 
 Any Contributor is free to engage an individual as an External Contractor and is responsible for meeting the terms of the contract they enter into. 
 
